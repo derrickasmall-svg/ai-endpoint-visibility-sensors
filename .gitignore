@@ -1,0 +1,22 @@
+# Sensitive/local files
+.env
+*.log
+*.csv
+*.xlsx
+*.json
+*.xml
+*.bak
+*.zip
+
+# Tanium/internal exports
+*tanium*
+*export*
+*results*
+*hostname*
+*inventory*
+*endpoint*
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
