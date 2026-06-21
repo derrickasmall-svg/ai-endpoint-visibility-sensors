@@ -1,5 +1,5 @@
 # AI Endpoint Visibility Sensors for Tanium
-
+![AI Endpoint Visibility Dashboard](docs/images/ai-endpoint-visibility-dashboard.png)
 Example Tanium sensor logic for identifying endpoint indicators of AI tool usage across Windows and macOS systems.
 
 ## Purpose
